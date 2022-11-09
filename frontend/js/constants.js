@@ -2,7 +2,7 @@ const contractAddress = "0x0Cf778D64c7F8ceB9246030eDFF87fa6a06b4104"; // Replace
 const chain = 'goerli'; // goerli, polygon, or ethereum
 
 const welcome_h1 = "Welcome to the Impulse Intelligence";
-const welcome_h2 = "Connect MetaMask wallet to set started";
+const welcome_h2 = "Connect MetaMask wallet to get started";
 const welcome_p = 'The Impulse Intelligence NFT Project is a decentralized, open-source project that aims to demonstrate how to develop and launch your own NFT Collection.';
 const h1_presale_coming_soon = "NFT Drop Coming Soon!!";
 const h1_presale_mint = "Pre-Sale Minting Open!!";
